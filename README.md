@@ -1,5 +1,5 @@
 # PA3 - PYTHON DATA ANALYSIS (PANDAS)
-This repository contains Python scripts designed to address a range of programming problems in ECE2112. The focus is on DataFrame creation and the utilization of the NumPy library for numerical analysis. Presented below are the key concepts and functionalities used in the given Python exercises.
+This repository contains Python scripts designed to address a range of programming problems in ECE2112. The focus is on DataFrame creation and the utilization of the Pandas library. Presented below are the key concepts and functionalities used in the given Python exercises.
 
 ***
 ### Intended Learning Outcomes:
